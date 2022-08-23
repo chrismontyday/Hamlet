@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hamlet/1.0.0": {
+        "dependencies": {
+          "Council": "1.0.0",
+          "DataManagement": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "Hamlet.dll": {}
+        }
+      },
+      "Council/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "Council.dll": {}
+        }
+      },
+      "DataManagement/1.0.0": {
+        "runtime": {
+          "DataManagement.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "dependencies": {
+          "DataManagement": "1.0.0"
+        },
+        "runtime": {
+          "Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hamlet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Council/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

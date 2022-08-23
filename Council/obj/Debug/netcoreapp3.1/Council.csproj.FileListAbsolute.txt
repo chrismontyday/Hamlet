@@ -1,0 +1,15 @@
+C:\Users\DayChri\source\repos\Hamlet\Council\bin\Debug\netcoreapp3.1\Council.deps.json
+C:\Users\DayChri\source\repos\Hamlet\Council\bin\Debug\netcoreapp3.1\Council.dll
+C:\Users\DayChri\source\repos\Hamlet\Council\bin\Debug\netcoreapp3.1\Council.pdb
+C:\Users\DayChri\source\repos\Hamlet\Council\bin\Debug\netcoreapp3.1\DataManagement.dll
+C:\Users\DayChri\source\repos\Hamlet\Council\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\DayChri\source\repos\Hamlet\Council\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\DayChri\source\repos\Hamlet\Council\bin\Debug\netcoreapp3.1\DataManagement.pdb
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.csproj.AssemblyReference.cache
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.AssemblyInfoInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.AssemblyInfo.cs
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.csproj.CoreCompileInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.csproj.CopyComplete
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.dll
+C:\Users\DayChri\source\repos\Hamlet\Council\obj\Debug\netcoreapp3.1\Council.pdb

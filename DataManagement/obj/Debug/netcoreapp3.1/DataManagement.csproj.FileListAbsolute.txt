@@ -1,0 +1,10 @@
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\bin\Debug\netcoreapp3.1\DataManagement.deps.json
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\bin\Debug\netcoreapp3.1\DataManagement.dll
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\bin\Debug\netcoreapp3.1\DataManagement.pdb
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\obj\Debug\netcoreapp3.1\DataManagement.csproj.AssemblyReference.cache
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\obj\Debug\netcoreapp3.1\DataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\obj\Debug\netcoreapp3.1\DataManagement.AssemblyInfoInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\obj\Debug\netcoreapp3.1\DataManagement.AssemblyInfo.cs
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\obj\Debug\netcoreapp3.1\DataManagement.csproj.CoreCompileInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\obj\Debug\netcoreapp3.1\DataManagement.dll
+C:\Users\DayChri\source\repos\Hamlet\DataManagement\obj\Debug\netcoreapp3.1\DataManagement.pdb

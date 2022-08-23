@@ -1,0 +1,17 @@
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.AssemblyReference.cache
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfoInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfo.cs
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.CoreCompileInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\Structures.deps.json
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\Structures.dll
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\Structures.pdb
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\DataManagement.dll
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\UtilityHelpers.dll
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\DataManagement.pdb
+C:\Users\DayChri\source\repos\Hamlet\Structures\bin\Debug\netcoreapp3.1\UtilityHelpers.pdb
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.CopyComplete
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.dll
+C:\Users\DayChri\source\repos\Hamlet\Structures\obj\Debug\netcoreapp3.1\Structures.pdb

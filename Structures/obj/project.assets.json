@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DataManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataManagement.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DataManagement": "1.0.0",
+          "UtilityHelpers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "UtilityHelpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UtilityHelpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UtilityHelpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataManagement/1.0.0": {
+      "type": "project",
+      "path": "../DataManagement/DataManagement.csproj",
+      "msbuildProject": "../DataManagement/DataManagement.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "UtilityHelpers/1.0.0": {
+      "type": "project",
+      "path": "../UtilityHelpers/UtilityHelpers.csproj",
+      "msbuildProject": "../UtilityHelpers/UtilityHelpers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DayChri\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DayChri\\source\\repos\\Hamlet\\Structures\\Structures.csproj",
+      "projectName": "Structures",
+      "projectPath": "C:\\Users\\DayChri\\source\\repos\\Hamlet\\Structures\\Structures.csproj",
+      "packagesPath": "C:\\Users\\DayChri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DayChri\\source\\repos\\Hamlet\\Structures\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DayChri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Code\\Workspace\\Misc\\GeoCoding\\Branches\\": {},
+        "C:\\Code\\Workspace\\Website\\Branches\\Monty\\packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\hmic.local\\files\\HMIPackages": {},
+        "\\\\hmic.local\\files\\IISAppQA\\IntSvcQ": {},
+        "\\\\hmic.local\\files\\IISAppQA\\IntSvcQ\\IntegrationServicesAPI": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\DayChri\\source\\repos\\Hamlet\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\DayChri\\source\\repos\\Hamlet\\Models\\Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

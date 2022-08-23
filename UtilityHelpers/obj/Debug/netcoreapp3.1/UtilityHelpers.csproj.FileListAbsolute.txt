@@ -1,0 +1,10 @@
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\bin\Debug\netcoreapp3.1\UtilityHelpers.deps.json
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\bin\Debug\netcoreapp3.1\UtilityHelpers.dll
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\bin\Debug\netcoreapp3.1\UtilityHelpers.pdb
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\obj\Debug\netcoreapp3.1\UtilityHelpers.csproj.AssemblyReference.cache
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\obj\Debug\netcoreapp3.1\UtilityHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\obj\Debug\netcoreapp3.1\UtilityHelpers.AssemblyInfoInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\obj\Debug\netcoreapp3.1\UtilityHelpers.AssemblyInfo.cs
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\obj\Debug\netcoreapp3.1\UtilityHelpers.csproj.CoreCompileInputs.cache
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\obj\Debug\netcoreapp3.1\UtilityHelpers.dll
+C:\Users\DayChri\source\repos\Hamlet\UtilityHelpers\obj\Debug\netcoreapp3.1\UtilityHelpers.pdb
